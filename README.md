@@ -31,8 +31,7 @@ Connect developers based on tech interests
 
 ### 🧠 What I’m Learning
 Currently exploring:
-- ⚛️ Advanced React architecture patterns  
-- ☁️ AWS + Cloudflare deployment strategies  
+- ⚛️ Advanced React architecture patterns   
 - 🧩 Clean code and system design principles  
 
 ---
